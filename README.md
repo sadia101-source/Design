@@ -1,3 +1,3 @@
 # Design
 
-### uploading things I make using FIGMA
+### uploading random things i make using figma
