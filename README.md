@@ -1,3 +1,3 @@
 # Design
 
-### uploading designs, icons etc using FIGMA
+### uploading things I make using FIGMA
